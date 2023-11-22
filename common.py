@@ -1,0 +1,1 @@
+errores_lexicos = []
